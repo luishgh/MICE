@@ -1,5 +1,5 @@
 # OBRAC-2019: MICE
-Esse repositório serve para registrar o código fonte e o circuito utilizado pela equipe do CEFET-MG Campus Divinópolis na Etapa II Fase II da Olimpíada Brasileira de Cartografia - 3º Edição para a implementação dos recursos sonoros do Mapa Interativo do Cefet e Entorno (MICE)
+Esse repositório serve para registrar o código fonte e o circuito utilizado pela equipe do CEFET-MG Campus Divinópolis na Etapa II Fase I da Olimpíada Brasileira de Cartografia - 3º Edição para a implementação dos recursos sonoros do Mapa Interativo do Cefet e Entorno (MICE). O MICE se trata de um mapa tátil (um tipo de mapa inclusivo para deficientes visuais e motores) com recursos táteis e sonoros que representa o Campus Divinópolis e seu entorno. 
 
 ---
 
