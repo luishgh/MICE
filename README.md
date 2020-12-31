@@ -1,5 +1,5 @@
-# OBRAC-2019-MAPA-T-TIL-COM-BOT-ES-SONOROS
-Esse repositório serve para registrar o código fonte e o circuito utilizado pela equipe do CEFET-MG Campus Divinópolis na Etapa II Fase II da Olimpíada Brasileira de Cartografia - 3º Edição para a implementação dos recursos sonoros do Mapa Tátil
+# OBRAC-2019: MICE
+Esse repositório serve para registrar o código fonte e o circuito utilizado pela equipe do CEFET-MG Campus Divinópolis na Etapa II Fase II da Olimpíada Brasileira de Cartografia - 3º Edição para a implementação dos recursos sonoros do Mapa Interativo do Cefet e Entorno (MICE)
 
 ---
 
